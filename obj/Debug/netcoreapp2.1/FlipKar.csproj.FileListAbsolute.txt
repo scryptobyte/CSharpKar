@@ -1,0 +1,11 @@
+C:\Users\kuldeep.sharma\Documents\FlipKar\bin\Debug\netcoreapp2.1\FlipKar.deps.json
+C:\Users\kuldeep.sharma\Documents\FlipKar\bin\Debug\netcoreapp2.1\FlipKar.runtimeconfig.json
+C:\Users\kuldeep.sharma\Documents\FlipKar\bin\Debug\netcoreapp2.1\FlipKar.runtimeconfig.dev.json
+C:\Users\kuldeep.sharma\Documents\FlipKar\bin\Debug\netcoreapp2.1\FlipKar.dll
+C:\Users\kuldeep.sharma\Documents\FlipKar\bin\Debug\netcoreapp2.1\FlipKar.pdb
+C:\Users\kuldeep.sharma\Documents\FlipKar\obj\Debug\netcoreapp2.1\FlipKar.csprojAssemblyReference.cache
+C:\Users\kuldeep.sharma\Documents\FlipKar\obj\Debug\netcoreapp2.1\FlipKar.csproj.CoreCompileInputs.cache
+C:\Users\kuldeep.sharma\Documents\FlipKar\obj\Debug\netcoreapp2.1\FlipKar.AssemblyInfoInputs.cache
+C:\Users\kuldeep.sharma\Documents\FlipKar\obj\Debug\netcoreapp2.1\FlipKar.AssemblyInfo.cs
+C:\Users\kuldeep.sharma\Documents\FlipKar\obj\Debug\netcoreapp2.1\FlipKar.dll
+C:\Users\kuldeep.sharma\Documents\FlipKar\obj\Debug\netcoreapp2.1\FlipKar.pdb
